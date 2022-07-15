@@ -12,9 +12,9 @@
    "remote": "stagos-devices"
  },
  {
-   "repository": "Nexus003/kernel_xiaomi_sdm845",
+   "repository": "Cruzer1/kernel_xiaomi_sdm845",
    "target_path": "kernel/xiaomi/sdm845",
-   "branch": "gear12.x",
+   "branch": "s12.1",
    "remote": "github"
  },
  {
