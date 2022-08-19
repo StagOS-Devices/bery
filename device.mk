@@ -87,6 +87,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Shims
+PRODUCT_PACKAGES += \
+    libpiex_shim
+
 # WiFi
 PRODUCT_PACKAGES += \
     TargetWifiOverlay
