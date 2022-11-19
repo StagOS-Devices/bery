@@ -80,8 +80,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/uinput-goodix.kl:system/usr/keylayout/uinput-goodix.kl
 
 # PocketMode
-PRODUCT_PACKAGES += \
-    XiaomiPocketMode
+#PRODUCT_PACKAGES += \
+#    XiaomiPocketMode
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
