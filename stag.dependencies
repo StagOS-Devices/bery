@@ -22,5 +22,12 @@
    "target_path": "hardware/xiaomi",
    "branch": "t13-beryllium",
    "remote": "github"
- }
+ },
+ {
+   "repository": "Roxor-007/WeebX_clang16",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-weebx",
+   "branch": "main",
+   "depth": "1",
+   "remote": "gitlab"
+   }
 ]
