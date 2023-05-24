@@ -29,5 +29,11 @@
    "branch": "main",
    "depth": "1",
    "remote": "gitlab"
-   }
+   },
+ {
+   "repository": "Cruzer1/android_hardware_lineage_compat",
+   "target_path": "hardware/lineage/compat",
+   "branch": "lineage-20.0",
+   "remote": "github"
+ }
 ]
